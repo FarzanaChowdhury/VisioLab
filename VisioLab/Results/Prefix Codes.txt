@@ -1,0 +1,15 @@
+Your Message from input:
+VisioLab Visualizes
+
+Prefix Codes:
+L : 0100
+V : 011
+a : 100
+b : 1011
+e : 11111
+i : 00
+l : 1110
+o : 11110
+s : 110
+u : 1010
+z : 0101
